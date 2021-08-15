@@ -6,7 +6,7 @@
 ---
 * 💼Find me in [LinkedIn](https://www.linkedin.com/in/tao-rao-802694219/)
  * 📫Any question? Do reach [email](raotao77@outlook.com)   
-![A bird](https://raw.githubusercontent.com/alinaTaoRao/alinaTaoRao/master/20210815_153327_bird__1080x960.jpg)
+![A bird](https://raw.githubusercontent.com/alinaTaoRao/alinaTaoRao/master/bird.jpg)
 ---
 [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinataorao)](https://github.com/alinataorao/github-readme-stats))
 
