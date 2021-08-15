@@ -5,7 +5,7 @@
 #### Find me around the web  🌎:
 ---
 * 💼Find me in [LinkedIn](https://www.linkedin.com/in/tao-rao-802694219/)
- * 📫Any question? Do reach [email](raotao77@outlook.com)   
+* 📫Any question? Do reach <a href="mailto:raotao77@outlook.com">email</a>  
 ![A bird](https://raw.githubusercontent.com/alinaTaoRao/alinaTaoRao/master/bird.jpg)
 ---
 [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinataorao)](https://github.com/alinataorao/github-readme-stats))
