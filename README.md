@@ -1,7 +1,7 @@
 ### Hi, I'm Alina 👋:woman: 
 ---
 🌱I'm currently learning frond-end web development.  
-🔭I'm now working on the technical assignment form [**_HackYourFuture_**](https://home.hackyourfuture.be/)
+🔭I'm now working on the technical assignment from [**_HackYourFuture_**](https://home.hackyourfuture.be/)
 #### Find me around the web  🌎:
 ---
 * 💼Find me in [LinkedIn](https://www.linkedin.com/in/tao-rao-802694219/)
