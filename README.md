@@ -6,7 +6,7 @@
 ---
 * 💼Find me in [LinkedIn](https://www.linkedin.com/in/tao-rao-802694219/)
  * 📫Any question? Do reach [email](raotao77@outlook.com)   
-![ an orange kat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+![A bird](https://raw.githubusercontent.com/alinaTaoRao/alinaTaoRao/master/20210815_153327_bird__1080x960.jpg)
 ---
 [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinataorao)](https://github.com/alinataorao/github-readme-stats))
 
