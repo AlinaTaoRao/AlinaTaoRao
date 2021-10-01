@@ -4,6 +4,7 @@
 🔭I'm now working on the technical assignment from [**_HackYourFuture_**](https://home.hackyourfuture.be/)
 #### Find me around the web  🌎:
 ---
+* :floppy_disk:[My public repository](https://github.com/AlinaTaoRao/AlinaTaoRao.github.io)
 * 💼Find me in [LinkedIn](https://www.linkedin.com/in/tao-rao-802694219/)
 * 📫Any question? Do reach <a href="mailto:raotao77@outlook.com">email</a>  
 ![A bird](https://raw.githubusercontent.com/alinaTaoRao/alinaTaoRao/master/bird01.jpg)
