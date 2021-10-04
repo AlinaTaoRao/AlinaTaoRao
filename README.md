@@ -1,7 +1,6 @@
 ### Hi, I'm Alina 👋:woman: 
 ---
 🌱I'm currently learning frond-end web development.  
-🔭I'm now working on the technical assignment from [**_HackYourFuture_**](https://home.hackyourfuture.be/)
 #### Find me around the web  🌎:
 ---
 * :floppy_disk:[My public repository](https://github.com/AlinaTaoRao/AlinaTaoRao.github.io)
