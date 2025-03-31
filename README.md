@@ -1,4 +1,4 @@
-### Hi, I'm Alina 👋:woman: 
+### Hi, I'm Alina 👋 
 ---
 🌱I'm currently learning frond-end web development.  
 #### Find me around the web  🌎:
